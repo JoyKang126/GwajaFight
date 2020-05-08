@@ -1,0 +1,2720 @@
+fileFormatVersion: 2
+guid: 1f650cc2a14f9b947a5ff600534b82c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -989232796144139027
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_0
+  - first:
+      213: -4251546800574796619
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_1
+  - first:
+      213: 896439279794954352
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_2
+  - first:
+      213: 5893714373645987951
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_3
+  - first:
+      213: -536439922985957282
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_4
+  - first:
+      213: 7476575664736262701
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_5
+  - first:
+      213: -6879818619739832434
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_6
+  - first:
+      213: -7248767571393293335
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_7
+  - first:
+      213: -4729194776220556266
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_8
+  - first:
+      213: 4205359913848226945
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_9
+  - first:
+      213: 7400105209492888284
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_10
+  - first:
+      213: -2526776185743118762
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_11
+  - first:
+      213: 865550405532002334
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_12
+  - first:
+      213: 2713144985732300613
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_13
+  - first:
+      213: 7094444655758174362
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_14
+  - first:
+      213: 8429258240302704084
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_15
+  - first:
+      213: -7306792171676536876
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_16
+  - first:
+      213: 2450471356414596370
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_17
+  - first:
+      213: -2203218073819565471
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_18
+  - first:
+      213: 747649993416564372
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_19
+  - first:
+      213: 1742639499279941425
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_20
+  - first:
+      213: 7271032244358094587
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_21
+  - first:
+      213: 3593550164654998398
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_22
+  - first:
+      213: 4720351310333930729
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_23
+  - first:
+      213: 229282379131587457
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_24
+  - first:
+      213: 7871618632971497014
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_25
+  - first:
+      213: -2073234011215464376
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_26
+  - first:
+      213: -6196967707362754222
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_27
+  - first:
+      213: 8177051604403958990
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_28
+  - first:
+      213: -699320107939436308
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_29
+  - first:
+      213: 6419077710713594294
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_30
+  - first:
+      213: -4407403775711237351
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_31
+  - first:
+      213: -2359790334753222751
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_32
+  - first:
+      213: 8133557245977718257
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_33
+  - first:
+      213: -8944224206276813273
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_34
+  - first:
+      213: -6481811904047962700
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_35
+  - first:
+      213: 6598006792423383785
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_36
+  - first:
+      213: 5170224000372756375
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_37
+  - first:
+      213: 5158690290390062937
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_38
+  - first:
+      213: 6423512500045515010
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_39
+  - first:
+      213: -511013897212705120
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_40
+  - first:
+      213: 3401046901547708893
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_41
+  - first:
+      213: 5356385794568366513
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_42
+  - first:
+      213: 8889653771824922183
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_43
+  - first:
+      213: -7097736740576326236
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_44
+  - first:
+      213: 6176576700797678694
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_45
+  - first:
+      213: 2219971671116333302
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_46
+  - first:
+      213: -4261163226868522658
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_47
+  - first:
+      213: 9201947229870217490
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_48
+  - first:
+      213: 7774953555004979217
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_49
+  - first:
+      213: 1610366628986074684
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_50
+  - first:
+      213: -1034550687188589013
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_51
+  - first:
+      213: 1490629406138140188
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_52
+  - first:
+      213: -1586105890694582703
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_53
+  - first:
+      213: -3585293828451143777
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_54
+  - first:
+      213: 7889799158783349712
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_55
+  - first:
+      213: -5353150540199555373
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_56
+  - first:
+      213: 5057809465035879301
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_57
+  - first:
+      213: 3756835548556038287
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_58
+  - first:
+      213: 7195987914102598959
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_59
+  - first:
+      213: 8439126414908278728
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_60
+  - first:
+      213: 7034353632469439176
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_61
+  - first:
+      213: -7134863828334359915
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_62
+  - first:
+      213: -8432005716003941749
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_63
+  - first:
+      213: -5215932871604941980
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_64
+  - first:
+      213: -1164371994287368124
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_65
+  - first:
+      213: 6727999583159958744
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_66
+  - first:
+      213: 2326708096178604266
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_67
+  - first:
+      213: 6202828377298061697
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_68
+  - first:
+      213: 284953348356002363
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_69
+  - first:
+      213: -1987404288307138223
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_70
+  - first:
+      213: -2036908216158466349
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_71
+  - first:
+      213: -1663030593975189337
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_72
+  - first:
+      213: 9193453445049713418
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_73
+  - first:
+      213: 3862344464683397562
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_74
+  - first:
+      213: 4950953767025743237
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_75
+  - first:
+      213: 196856300600855130
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_76
+  - first:
+      213: -6127478376910922913
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_77
+  - first:
+      213: -2853497330727394359
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_78
+  - first:
+      213: 629368849377503865
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_79
+  - first:
+      213: -5377684024710065607
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_80
+  - first:
+      213: -6601944482659702791
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_81
+  - first:
+      213: -3955046896096165263
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_82
+  - first:
+      213: -6435798311240033145
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_83
+  - first:
+      213: 4284304968693933065
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_84
+  - first:
+      213: -4125739143670843427
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_85
+  - first:
+      213: 3324266956367324451
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_86
+  - first:
+      213: 7039236810176273811
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_87
+  - first:
+      213: 376034821317104279
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_88
+  - first:
+      213: -8609074599145958635
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_89
+  - first:
+      213: -5183717752655567460
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_90
+  - first:
+      213: 7989965012745728250
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_91
+  - first:
+      213: -3820577320372981785
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_92
+  - first:
+      213: -6881555927623516326
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_93
+  - first:
+      213: 6654575850616665988
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_94
+  - first:
+      213: 206910467997530840
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_95
+  - first:
+      213: 2676964977580086419
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_96
+  - first:
+      213: -1267858841103257290
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_97
+  - first:
+      213: 7748410354952135320
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_98
+  - first:
+      213: 5613632609471057043
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_99
+  - first:
+      213: -4285034853550466822
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_100
+  - first:
+      213: -2070853996171594981
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_101
+  - first:
+      213: 7493328477211583105
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_102
+  - first:
+      213: 6568185786217696963
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_103
+  - first:
+      213: -9085813515505448774
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_104
+  - first:
+      213: -9125044547771546664
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_105
+  - first:
+      213: -3757708423900639227
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_106
+  - first:
+      213: -5921718695553100163
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_107
+  - first:
+      213: -2302538460967566683
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_108
+  - first:
+      213: -6899415404541452924
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_109
+  - first:
+      213: 2051366813111866118
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_110
+  - first:
+      213: -7182394896577588241
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_111
+  - first:
+      213: 1744361750443471576
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_112
+  - first:
+      213: 7570909943752318922
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_113
+  - first:
+      213: -5084043551771635953
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_114
+  - first:
+      213: -3337314947553853210
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_115
+  - first:
+      213: -2651476081680914190
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_116
+  - first:
+      213: 7475105740952797831
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_117
+  - first:
+      213: -848779381662028545
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_118
+  - first:
+      213: -26652300141437304
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_119
+  - first:
+      213: -3589223070454114417
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_120
+  - first:
+      213: -4105311070506074082
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_121
+  - first:
+      213: 5530806981509051861
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_122
+  - first:
+      213: 6021764455674816478
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_123
+  - first:
+      213: 3955843413625118055
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_124
+  - first:
+      213: 4251573400345448846
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_125
+  - first:
+      213: 2263934393276761396
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_126
+  - first:
+      213: -6812536627499661526
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_127
+  - first:
+      213: 6633840676547925708
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_128
+  - first:
+      213: -1659426539037288103
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_129
+  - first:
+      213: -4721944013456880583
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_130
+  - first:
+      213: 6280912624815476403
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_131
+  - first:
+      213: 2512430072302176313
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_132
+  - first:
+      213: 1993437364784882218
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_133
+  - first:
+      213: 6495378523202316958
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_134
+  - first:
+      213: 8009263714575988335
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_135
+  - first:
+      213: -4042697775835834059
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_136
+  - first:
+      213: -7297775388699314000
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_137
+  - first:
+      213: -6955752194524800285
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_138
+  - first:
+      213: 7270499659642074908
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_139
+  - first:
+      213: -6969490821323613251
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_140
+  - first:
+      213: 1713722229834135773
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_141
+  - first:
+      213: 6068864612864299543
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_142
+  - first:
+      213: 4487510365876809479
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_143
+  - first:
+      213: -2707761898654858957
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_144
+  - first:
+      213: -6671232515927052311
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_145
+  - first:
+      213: -9110017260873435107
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_146
+  - first:
+      213: -351075366033653118
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_147
+  - first:
+      213: 9136341874992317949
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_148
+  - first:
+      213: -6864722162727588759
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_149
+  - first:
+      213: -4457903716568785509
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_150
+  - first:
+      213: 940958237439882181
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_151
+  - first:
+      213: 9041505312859586111
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_152
+  - first:
+      213: -1934937108438703943
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_153
+  - first:
+      213: -450020231556698150
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_154
+  - first:
+      213: -6165672846086617899
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_155
+  - first:
+      213: -8408640256403858089
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_156
+  - first:
+      213: 4215893611749893248
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_157
+  - first:
+      213: 7458126834748778639
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_158
+  - first:
+      213: -8815227018671184990
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_159
+  - first:
+      213: 2166627802406807079
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_160
+  - first:
+      213: -4920024784906787396
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_161
+  - first:
+      213: 1924623993775456665
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_162
+  - first:
+      213: -6150718474250246374
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_163
+  - first:
+      213: 3023974539169614933
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_164
+  - first:
+      213: 6884906186373927557
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_165
+  - first:
+      213: -3469817891453210566
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_166
+  - first:
+      213: 5629090550472858302
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_167
+  - first:
+      213: 3607391959979974085
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_168
+  - first:
+      213: -2961278122175551024
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_169
+  - first:
+      213: 8219390773920999557
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_170
+  - first:
+      213: -8581933874163878039
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_171
+  - first:
+      213: 3107412505632084970
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_172
+  - first:
+      213: -4851686143103420521
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_173
+  - first:
+      213: 5943541947103504513
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_174
+  - first:
+      213: -145555672064196406
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_175
+  - first:
+      213: -7039072060597128818
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_176
+  - first:
+      213: -4271494391388065613
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_177
+  - first:
+      213: -621783946627769706
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_178
+  - first:
+      213: 5067249306998082481
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_179
+  - first:
+      213: -6296379388669816123
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_180
+  - first:
+      213: -4757526930877718819
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_181
+  - first:
+      213: -8657206217792900033
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_182
+  - first:
+      213: -4764754309237975031
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_183
+  - first:
+      213: -3757249604347428437
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_184
+  - first:
+      213: -8107721556571461099
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_185
+  - first:
+      213: -228976615394789664
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_186
+  - first:
+      213: 3022963569233043048
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_187
+  - first:
+      213: 6225214812802041948
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_188
+  - first:
+      213: 1084357671629901922
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_189
+  - first:
+      213: 8142220821510914871
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_190
+  - first:
+      213: -9133961083840516005
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_191
+  - first:
+      213: 4892078947843810281
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_192
+  - first:
+      213: 2319815043544604429
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_193
+  - first:
+      213: -6693797324211655794
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_194
+  - first:
+      213: -1675102271650174873
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_195
+  - first:
+      213: -8924571662149078087
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_196
+  - first:
+      213: 4287702416914980695
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_197
+  - first:
+      213: -653774412457056951
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_198
+  - first:
+      213: 7428646254310867942
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_199
+  - first:
+      213: -4921966973635307641
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_200
+  - first:
+      213: 3980734817416004748
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_201
+  - first:
+      213: -3640468637537382607
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_202
+  - first:
+      213: -2536433203851425546
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_203
+  - first:
+      213: -3546407842524362202
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_204
+  - first:
+      213: -4226377633587281711
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_205
+  - first:
+      213: 4586399883121661959
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_206
+  - first:
+      213: -8959630209229298309
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_207
+  - first:
+      213: 2702217030490880516
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_208
+  - first:
+      213: -5387519671600226913
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_209
+  - first:
+      213: -219808835406889115
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_210
+  - first:
+      213: -4539144159487364416
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_211
+  - first:
+      213: 8785441211058342021
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_212
+  - first:
+      213: -2623729508472124673
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_213
+  - first:
+      213: 8566991780217490046
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_214
+  - first:
+      213: 3015582861092330794
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_215
+  - first:
+      213: -3482036779498559799
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_216
+  - first:
+      213: -6206682901260485802
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_217
+  - first:
+      213: -4273174291301831581
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_218
+  - first:
+      213: -6561576962546723581
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_219
+  - first:
+      213: 7427628649488867978
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_220
+  - first:
+      213: 2430946562717311898
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_221
+  - first:
+      213: -2249729912730503102
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_222
+  - first:
+      213: -5659853835442118973
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_223
+  - first:
+      213: -2339026791202344970
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_224
+  - first:
+      213: -4271063480222674358
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_225
+  - first:
+      213: -8703533857054874516
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_226
+  - first:
+      213: 7812918753079339205
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_227
+  - first:
+      213: -2172155250492034381
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_228
+  - first:
+      213: -3349834792916072914
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_229
+  - first:
+      213: -2220290948597953472
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_230
+  - first:
+      213: 2218091433600646795
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_231
+  - first:
+      213: -5268729852744923559
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_232
+  - first:
+      213: 2832853865992242580
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_233
+  - first:
+      213: 7936891266583354305
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_234
+  - first:
+      213: -7656150650187294747
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_235
+  - first:
+      213: -1451238238447793960
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_236
+  - first:
+      213: 2250143489525676278
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_237
+  - first:
+      213: -1268656114928014658
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_238
+  - first:
+      213: -6037375088316839788
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_239
+  - first:
+      213: -5290962203228638698
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_240
+  - first:
+      213: 3867618090382748943
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_241
+  - first:
+      213: 4555327586737572433
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_242
+  - first:
+      213: -4288535456319560776
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_243
+  - first:
+      213: 7697150056410456751
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_244
+  - first:
+      213: -6467848991407810240
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_245
+  - first:
+      213: -8074407804573912140
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_246
+  - first:
+      213: 3832923323333646546
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_247
+  - first:
+      213: 4149836924450006155
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_248
+  - first:
+      213: -8121554607423894019
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_249
+  - first:
+      213: 2287715107455164697
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_250
+  - first:
+      213: 126410936167630170
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_251
+  - first:
+      213: -7823099502706723602
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_252
+  - first:
+      213: 8342368711616717822
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_253
+  - first:
+      213: 2384833167777759656
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_254
+  - first:
+      213: 5926134479334527354
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_255
+  - first:
+      213: -8717991343501980525
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_256
+  - first:
+      213: -2111437826138220581
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_257
+  - first:
+      213: 7567124359830100650
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_258
+  - first:
+      213: 1148550573225052944
+    second: Summer-Farm-Top-Down-2D-Game-Tileset2_259
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de489a9530a8542f0800000000000000
+      internalID: -989232796144139027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc6ac5e5b87ff4c0800000000000000
+      internalID: -4251546800574796619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a2e286cac07c00800000000000000
+      internalID: 896439279794954352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6078c02ffdaac150800000000000000
+      internalID: 5893714373645987951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5885137bbe2e88f0800000000000000
+      internalID: -536439922985957282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5fe854f122c760800000000000000
+      internalID: 7476575664736262701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff94b8a69f580a0800000000000000
+      internalID: -6879818619739832434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35bb7ac44376b90800000000000000
+      internalID: -7248767571393293335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614adb948668e5eb0800000000000000
+      internalID: -4729194776220556266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18447998f807c5a30800000000000000
+      internalID: 4205359913848226945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda57580b7472b660800000000000000
+      internalID: 7400105209492888284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 760
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6ddd42761fecd0800000000000000
+      internalID: -2526776185743118762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e182ee8028d030c00800000000000000
+      internalID: 865550405532002334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb4ba5df607a520800000000000000
+      internalID: 2713144985732300613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98622193d7847260800000000000000
+      internalID: 7094444655758174362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e64d95bdbaf470800000000000000
+      internalID: 8429258240302704084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df6d9f9b3f099a90800000000000000
+      internalID: -7306792171676536876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159c5b27b2d10220800000000000000
+      internalID: 2450471356414596370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b343c5d89c61e0800000000000000
+      internalID: -2203218073819565471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49edae135bf206a00800000000000000
+      internalID: 747649993416564372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f352644691f2810800000000000000
+      internalID: 1742639499279941425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_21
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe106b7d45e7e460800000000000000
+      internalID: 7271032244358094587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_22
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73cec6d5daded130800000000000000
+      internalID: 3593550164654998398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 650
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ece08bd18e028140800000000000000
+      internalID: 4720351310333930729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0569eb139e2300800000000000000
+      internalID: 229282379131587457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eac99e07b9d3d60800000000000000
+      internalID: 7871618632971497014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487e39b6a46a33e0800000000000000
+      internalID: -2073234011215464376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251831ef3b2fff9a0800000000000000
+      internalID: -6196967707362754222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4398e3c19ba7170800000000000000
+      internalID: 8177051604403958990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce86bf521148b46f0800000000000000
+      internalID: -699320107939436308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b126bc0b25251950800000000000000
+      internalID: 6419077710713594294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_31
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b240f0e91c5d2c0800000000000000
+      internalID: -4407403775711237351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af42a87137504fd0800000000000000
+      internalID: -2359790334753222751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd6ec6c83330e070800000000000000
+      internalID: 8133557245977718257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_34
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9b61197bbfd380800000000000000
+      internalID: -8944224206276813273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_35
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 540
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a2565a6afb06a0800000000000000
+      internalID: -6481811904047962700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a2005834d09b50800000000000000
+      internalID: 6598006792423383785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fca67d55350c740800000000000000
+      internalID: 5170224000372756375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957d4f8bc79579740800000000000000
+      internalID: 5158690290390062937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2098e77e596e42950800000000000000
+      internalID: 6423512500045515010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a64955619388e8f0800000000000000
+      internalID: -511013897212705120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b13f2322f23f20800000000000000
+      internalID: 3401046901547708893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b922353084b55a40800000000000000
+      internalID: 5356385794568366513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_43
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef5dd81056e5b70800000000000000
+      internalID: 8889653771824922183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad85b43a06cf7d90800000000000000
+      internalID: -7097736740576326236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_45
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664fff2d8cb97b550800000000000000
+      internalID: 6176576700797678694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_46
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c154197ceece10800000000000000
+      internalID: 2219971671116333302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_47
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516b8c2f9e4dd4c0800000000000000
+      internalID: -4261163226868522658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219dd466042e3bf70800000000000000
+      internalID: 9201947229870217490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187b37901f26eb60800000000000000
+      internalID: 7774953555004979217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36bbdebaeb295610800000000000000
+      internalID: 1610366628986074684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ecfb91a984a1f0800000000000000
+      internalID: -1034550687188589013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168d941c87cfa410800000000000000
+      internalID: 1490629406138140188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_53
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eaef098150df9e0800000000000000
+      internalID: -1586105890694582703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe4cb324a7e3ec0800000000000000
+      internalID: -3585293828451143777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3157078823e7d60800000000000000
+      internalID: 7889799158783349712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_56
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de073622f9c5b5b0800000000000000
+      internalID: -5353150540199555373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_57
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583721939e2f03640800000000000000
+      internalID: 5057809465035879301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801e3fd606f22430800000000000000
+      internalID: 3756835548556038287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_59
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de614c1e84dd360800000000000000
+      internalID: 7195987914102598959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7493f03cccd1570800000000000000
+      internalID: 8439126414908278728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d1dfeb5b0f9160800000000000000
+      internalID: 7034353632469439176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac857762fdbfc90800000000000000
+      internalID: -7134863828334359915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829589d97f7bfa80800000000000000
+      internalID: -8432005716003941749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b44bf30b84d97b0800000000000000
+      internalID: -5215932871604941980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448961e17d157dfe0800000000000000
+      internalID: -1164371994287368124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb93379f7ae5d50800000000000000
+      internalID: 6727999583159958744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_67
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae840c0afa02a4020800000000000000
+      internalID: 2326708096178604266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_68
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189409f8b8fd41650800000000000000
+      internalID: 6202828377298061697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_69
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3251528f8b54f300800000000000000
+      internalID: 284953348356002363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_70
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1517d5a54525b64e0800000000000000
+      internalID: -1987404288307138223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_71
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 210
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deccc7f4c27bb3e0800000000000000
+      internalID: -2036908216158466349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a080836c7abbe8e0800000000000000
+      internalID: -1663030593975189337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0387430335b59f70800000000000000
+      internalID: 9193453445049713418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab176a9b3ddc99530800000000000000
+      internalID: 3862344464683397562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58593f6483255b440800000000000000
+      internalID: 4950953767025743237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8c1d23cf5bb200800000000000000
+      internalID: 196856300600855130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_77
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b565781e2d6faa0800000000000000
+      internalID: -6127478376910922913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e772db475668d0800000000000000
+      internalID: -2853497330727394359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_79
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa7db42a7fbb800800000000000000
+      internalID: 629368849377503865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_80
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321dd82fd0ae55b0800000000000000
+      internalID: -5377684024710065607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_81
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e73cb87e2164a0800000000000000
+      internalID: -6601944482659702791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_82
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724d208dc9dc19c0800000000000000
+      internalID: -3955046896096165263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer-Farm-Top-Down-2D-Game-Tileset2_83
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c9a74c8837fa6a0800000000000000
+      internalID: -6435798311240033145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
