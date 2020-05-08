@@ -13,40 +13,48 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     Vector2 movement;
+
+    private bool freezeStatus = false;
+    private bool holdStatus = true;
+    private bool pushStatus = false;
+
     // Update is called once per frame
     void Update()
     {
         //Input
-        if (Input.GetKey(left))
+        if (!freezeStatus)
         {
-            movement.x = -1;
-            movement.y=0;
-        }
-        else if (Input.GetKey(right))
-        {
-            movement.x = 1;
-            movement.y=0;
-        }
-        else
-        {
-            movement.x = 0;
-        }
-            
+            if (Input.GetKey(left))
+            {
+                movement.x = -1;
+                movement.y = 0;
+            }
+            else if (Input.GetKey(right))
+            {
+                movement.x = 1;
+                movement.y = 0;
+            }
+            else
+            {
+                movement.x = 0;
+            }
 
-        if (Input.GetKey(up))
-        {
-            movement.y = 1;
-            movement.x = 0;
-        }
-            
-        else if (Input.GetKey(down))
-        {
-            movement.y = -1;
-            movement.x = 0;
-        }  
-        else
-        {
-            movement.y = 0;
+
+            if (Input.GetKey(up))
+            {
+                movement.y = 1;
+                movement.x = 0;
+            }
+
+            else if (Input.GetKey(down))
+            {
+                movement.y = -1;
+                movement.x = 0;
+            }
+            else
+            {
+                movement.y = 0;
+            }
         }
     }
 
@@ -54,5 +62,35 @@ public class PlayerMovement : MonoBehaviour
     {
         //Movement
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    public void setFreeze(bool check)
+    {
+        freezeStatus = check;
+    }
+
+    public void setPush(bool check)
+    {
+        pushStatus = check;
+    }
+
+    public void setHold(bool check)
+    {
+        holdStatus = check;
+    }
+
+    public bool getFreeze()
+    {
+        return freezeStatus;
+    }
+
+    public bool getPush()
+    {
+        return pushStatus;
+    }
+
+    public bool getHold()
+    {
+        return holdStatus;
     }
 }
