@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     Vector2 movement;
 
     private bool freezeStatus = false;
-    private bool holdStatus = true;
+    private bool holdStatus = false;
     private bool pushStatus = false;
 
     // Update is called once per frame
@@ -70,7 +70,10 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         //Movement
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        if (!freezeStatus)
+        {
+            rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        }
     }
 
     public void setFreeze(bool check)
@@ -102,4 +105,17 @@ public class PlayerMovement : MonoBehaviour
     {
         return holdStatus;
     }
+
+    public int getDirection()
+    {
+        if (this.animator.GetFloat("Horizontal") == -1) //facing left
+            return 1;
+        else if (this.animator.GetFloat("Horizontal") == 1)//facing right
+            return 2;
+        else if (this.animator.GetFloat("Vertical") == -1)//facing down
+            return 3;
+        else                                              //facing up
+            return 4;
+    }
+
 }
