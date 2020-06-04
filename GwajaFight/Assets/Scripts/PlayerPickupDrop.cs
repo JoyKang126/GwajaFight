@@ -45,14 +45,12 @@ public class PlayerPickupDrop : MonoBehaviour
                 hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1.3f);
                 if (hit.collider!=null && hit.collider.CompareTag("interactable"))
                 {
-                    GetComponent<PlayerMovement>().setHold(true);
                     holding = true;
                     hit.collider.gameObject.tag = "noninteractable";
                 }
             }
             else if (holding)
             {
-                GetComponent<PlayerMovement>().setHold(false);
                 holding = false;
                 hit.collider.gameObject.tag = "interactable";
             }
@@ -71,13 +69,6 @@ public class PlayerPickupDrop : MonoBehaviour
         }
     }
 
-    public void eat()
-    {
-        GetComponent<PlayerMovement>().setHold(false);
-        holding = false;
-        Destroy(hit.collider.gameObject);
-        hit = new RaycastHit2D();
-    }
     void OnDrawGizmos()
     {
         Gizmos.color = Color.green;

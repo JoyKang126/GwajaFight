@@ -22,7 +22,7 @@ public class CountdownTimer : MonoBehaviour
         currentTime -= 1 * Time.deltaTime;
         countdownText.text = currentTime.ToString ("0");
 
-        if (currentTime <= 5) {
+        if (currentTime <= 30) {
             countdownText.color = Color.red;
         }
 
