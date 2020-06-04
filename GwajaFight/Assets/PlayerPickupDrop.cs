@@ -75,6 +75,8 @@ public class PlayerPickupDrop : MonoBehaviour
     {
         GetComponent<PlayerMovement>().setHold(false);
         holding = false;
+        GetComponent<PlayerMovement>().addScore(hit.collider.gameObject.GetComponent<Snack>().getPointValue());
+        print(GetComponent<PlayerMovement>().getScore());
         Destroy(hit.collider.gameObject);
         hit = new RaycastHit2D();
     }
