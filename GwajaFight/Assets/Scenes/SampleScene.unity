@@ -821,10 +821,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67b240e253dae1846843784e7bdc675e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  push: 0
+  push: 47
   knockTime: 1
   attackPos: {fileID: 590547798}
-  startTimeBtwAttack: 0.3
+  startTimeBtwAttack: 1
 --- !u!114 &1193620734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -837,4 +837,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ab8ea29baefef4a840b86e01445566, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  eat: 112
+  eat: 47
