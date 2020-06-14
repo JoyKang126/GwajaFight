@@ -14,20 +14,26 @@ public class Eat : MonoBehaviour
 
         if (GetComponent<PlayerMovement>().getHold())
         {
-            if (!Input.GetKey(eat))
+            if (Input.GetKeyUp(eat) && myTime < eatTime)
             {
                 myTime = 0.0F;
                 GetComponent<PlayerMovement>().setFreeze(false);
+                GetComponent<PlayerPickupDrop>().returnSnack();
+                GetComponent<PlayerMovement>().animator.SetBool("Eating", false);
             }
             else if (Input.GetKey(eat) && myTime < eatTime)
             {
                 if (GetComponent<PlayerMovement>().getPush())
                 {
                     print("interrupt");
+                    GetComponent<PlayerPickupDrop>().returnSnack();
+                    GetComponent<PlayerMovement>().animator.SetBool("Eating", false);
                     myTime = 0.0F;
                 }
                 else
                 {
+                    GetComponent<PlayerPickupDrop>().moveSnack();
+                    GetComponent<PlayerMovement>().animator.SetBool("Eating", true);
                     GetComponent<PlayerMovement>().setFreeze(true);
                     myTime = myTime + Time.deltaTime;
                 }
@@ -39,6 +45,7 @@ public class Eat : MonoBehaviour
                 GetComponent<PlayerMovement>().setHold(false);
                 print("eat");
                 GetComponent<PlayerPickupDrop>().eat();
+                GetComponent<PlayerMovement>().animator.SetBool("Eating", false);
                 myTime = 0.0F;
             }
             else

@@ -19,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     private bool holdStatus = false;
     private bool pushStatus = false;
 
+    public int totalPoints = 0;
+
     // Update is called once per frame
     void Update()
     {
@@ -116,6 +118,16 @@ public class PlayerMovement : MonoBehaviour
             return 3;
         else                                              //facing up
             return 4;
+    }
+
+    public int getScore()
+    {
+        return totalPoints;
+    }
+
+    public void addScore(int points)
+    {
+        totalPoints += points;
     }
 
 }
