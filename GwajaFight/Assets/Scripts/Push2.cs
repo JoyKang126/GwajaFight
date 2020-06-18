@@ -18,10 +18,12 @@ public class Push2 : MonoBehaviour
 
     void Update()
     {
-        if (timeBtwAttack <= 0)
+        if (Input.GetKeyDown(push) && timeBtwAttack <= 0)
         {
-            if (!GetComponent<PlayerMovement>().getHold() && Input.GetKey(push))
+            if (!GetComponent<PlayerMovement>().getHold())
             {
+                StartCoroutine(AttackCo());
+                Debug.Log("hit");
                 hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical")) * transform.localScale.x, 1.3f);
                 if(hit.collider != null && hit.collider.CompareTag("Player"))
                 {
@@ -37,13 +39,12 @@ public class Push2 : MonoBehaviour
                     StartCoroutine(KnockCo(enemy, temp));
                 }
             }
-
-            timeBtwAttack = startTimeBtwAttack;
+            timeBtwAttack = startTimeBtwAttack + Time.deltaTime;
         }
-        else
+        else if (timeBtwAttack > 0)
         {
             timeBtwAttack -= Time.deltaTime;
-        }
+        }           
     }
 
     private Vector2 transformation(Vector2 vec, int check)
@@ -60,6 +61,14 @@ public class Push2 : MonoBehaviour
                 break;
         }
         return vec;
+    }
+
+    private IEnumerator AttackCo()
+    {
+        moveScript.animator.SetBool("Pushing", true);
+        yield return null;
+        moveScript.animator.SetBool("Pushing", false);
+        yield return new WaitForSeconds(0.5f);
     }
 
     private IEnumerator KnockCo(Rigidbody2D enemy, PlayerMovement other)
