@@ -102,6 +102,14 @@ public class PlayerPickupDrop : MonoBehaviour
         Destroy(hit.collider.gameObject);
         hit = new RaycastHit2D();
     }
+
+    public void setInteractable()
+    {
+        if (holding)
+        {
+            hit.collider.gameObject.tag = "interactable";
+        }
+    }
     void OnDrawGizmos()
     {
         Gizmos.color = Color.green;

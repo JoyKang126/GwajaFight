@@ -9,6 +9,7 @@ public class Push2 : MonoBehaviour
     public Transform attackPos;
     private float timeBtwAttack;
     public float startTimeBtwAttack;
+    public float stunTime;
     RaycastHit2D hit;
     private PlayerMovement moveScript;
     void Start()
@@ -29,7 +30,10 @@ public class Push2 : MonoBehaviour
                 {
                     Rigidbody2D enemy = hit.transform.gameObject.GetComponent<Rigidbody2D>();
                     PlayerMovement temp = hit.transform.gameObject.GetComponent<PlayerMovement>();
+                    hit.transform.gameObject.GetComponent<PlayerPickupDrop>().setInteractable();
                     hit.transform.gameObject.GetComponent<PlayerPickupDrop>().holding = false;
+                    //set the holding in playermovement to false for the other player
+                    print("ASD");
                     temp.setFreeze(true);
                     temp.setPush(true);
                     Vector2 difference = enemy.transform.position - transform.position;
@@ -54,10 +58,12 @@ public class Push2 : MonoBehaviour
             case 1: //left or right
             case 2:
                 vec.y = 0;
+                vec.x = 10;
                 break;
-            case 3:
+            case 3: //up or down
             case 4:
                 vec.x = 0;
+                vec.y = 10;
                 break;
         }
         return vec;
@@ -77,6 +83,7 @@ public class Push2 : MonoBehaviour
         {
             yield return new WaitForSeconds(knockTime);
             enemy.velocity = Vector2.zero;
+            yield return new WaitForSeconds(stunTime);
         }
         other.setFreeze(false);
         other.setPush(false);

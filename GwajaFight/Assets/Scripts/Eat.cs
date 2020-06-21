@@ -26,7 +26,13 @@ public class Eat : MonoBehaviour
                 if (GetComponent<PlayerMovement>().getPush())
                 {
                     print("interrupt");
-                    GetComponent<PlayerPickupDrop>().returnSnack();
+                    PlayerPickupDrop temp = GetComponent<PlayerPickupDrop>();
+                    temp.returnSnack();
+                    temp.setInteractable();
+                    temp.holding = false;
+                    GetComponent<PlayerMovement>().setHold(false);
+                    //set hold to false
+                    //GetComponent<PlayerPickupDrop>().returnSnack();
                     GetComponent<PlayerMovement>().animator.SetBool("Eating", false);
                     myTime = 0.0F;
                 }
