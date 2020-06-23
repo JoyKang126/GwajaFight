@@ -33,7 +33,7 @@ public class UIManager : MonoBehaviour
 
     //Reloads the Level
 	public void Reload(){
-		Application.LoadLevel(Application.loadedLevel);
+		SceneManager.LoadScene(SceneManager.GetActiveScene());
 	}
 
 	//controls the pausing of the scene
@@ -64,6 +64,6 @@ public class UIManager : MonoBehaviour
 
 	//loads inputted level
 	public void LoadLevel(string level){
-		Application.LoadLevel(level);
+		SceneManager.LoadScene(level);
 	}
 }
