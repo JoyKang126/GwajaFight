@@ -34,6 +34,7 @@ public class Push2 : MonoBehaviour
                     hit.transform.gameObject.GetComponent<PlayerPickupDrop>().holding = false;
                     //set the holding in playermovement to false for the other player
                     print("ASD");
+                    temp.animator.SetBool("Pushed", true);
                     temp.setFreeze(true);
                     temp.setPush(true);
                     Vector2 difference = enemy.transform.position - transform.position;
@@ -41,6 +42,7 @@ public class Push2 : MonoBehaviour
                     difference = transformation(difference, GetComponent<PlayerMovement>().getDirection());
                     enemy.AddForce(difference, ForceMode2D.Impulse);
                     StartCoroutine(KnockCo(enemy, temp));
+                    //StartCoroutine(PushedCo(temp));
                 }
             }
             timeBtwAttack = startTimeBtwAttack + Time.deltaTime;
@@ -56,11 +58,17 @@ public class Push2 : MonoBehaviour
         switch (check)
         {
             case 1: //left or right
+                vec.y = 0;
+                vec.x = -10;
+                break;
             case 2:
                 vec.y = 0;
                 vec.x = 10;
                 break;
             case 3: //up or down
+                vec.x = 0;
+                vec.y = -10;
+                break;
             case 4:
                 vec.x = 0;
                 vec.y = 10;
@@ -77,6 +85,14 @@ public class Push2 : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
     }
 
+    private IEnumerator PushedCo(PlayerMovement other)
+    {
+        other.animator.SetBool("Pushed", true);
+        yield return null;
+        other.animator.SetBool("Pushed", false);
+        yield return new WaitForSeconds(2f);
+    }
+
     private IEnumerator KnockCo(Rigidbody2D enemy, PlayerMovement other)
     {
         if (enemy != null)
@@ -84,6 +100,7 @@ public class Push2 : MonoBehaviour
             yield return new WaitForSeconds(knockTime);
             enemy.velocity = Vector2.zero;
             yield return new WaitForSeconds(stunTime);
+            other.animator.SetBool("Pushed", false);
         }
         other.setFreeze(false);
         other.setPush(false);
