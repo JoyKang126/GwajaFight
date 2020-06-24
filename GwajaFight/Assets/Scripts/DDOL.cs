@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DD : MonoBehaviour
+public class DDOL : MonoBehaviour
 {
-    void Awake()
+    // Start is called before the first frame update
+    void Start()
     {
         Debug.Log("begin");
         GameObject[] objs = GameObject.FindGameObjectsWithTag("DND");
@@ -12,7 +13,7 @@ public class DD : MonoBehaviour
         if (objs.Length > 1)
         {
             Debug.Log("oh shoot");
-            Destroy(objs[0]);
+            Destroy(objs[1]);
         }
 
         Debug.Log("this");

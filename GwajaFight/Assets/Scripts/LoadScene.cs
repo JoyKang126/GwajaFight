@@ -16,6 +16,15 @@ public class LoadScene : MonoBehaviour
         {
             sceneHistory.Add(SceneManager.GetActiveScene().name);
         }
+        if (newScene == "StartScreen")
+        {
+            GameObject[] objs = GameObject.FindGameObjectsWithTag("DND");
+
+            foreach (GameObject i in objs)
+            {
+                Destroy(i);
+            }
+        }
         SceneManager.LoadScene(newScene);
         sceneHistory.Add(newScene);
     }
