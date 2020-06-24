@@ -6,13 +6,16 @@ public class DD : MonoBehaviour
 {
     void Awake()
     {
+        Debug.Log("begin");
         GameObject[] objs = GameObject.FindGameObjectsWithTag("DND");
 
         if (objs.Length > 1)
         {
-            Destroy(this.gameObject);
+            Debug.Log("oh shoot");
+            Destroy(objs[0]);
         }
 
-        DontDestroyOnLoad(this.gameObject);
+        Debug.Log("this");
+        DontDestroyOnLoad(this);
     }
 }
