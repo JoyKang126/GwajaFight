@@ -5,23 +5,21 @@ using UnityEngine;
 
 public class LoadScene : MonoBehaviour
 {
-    private List<string> sceneHistory = new List<string>()
-    {
-        "StartScreen"
-    };  //running history of scenes
+    private List<string> sceneHistory = new List<string>();  //running history of scenes
     //The last string in the list is always the current scene running
- 
+        
     void Start()
     {
         DontDestroyOnLoad(this.gameObject);  //Allow this object to persist between scene changes
     }
- 
+     
     //Call this whenever you want to load a new scene
     //It will add the new scene to the sceneHistory list
     public void SceneLoader(string newScene)
     {
         sceneHistory.Add(SceneManager.GetActiveScene().name);
         SceneManager.LoadScene(newScene);
+        sceneHistory.Add(newScene);
     }
  
     //Call this whenever you want to load the previous scene
