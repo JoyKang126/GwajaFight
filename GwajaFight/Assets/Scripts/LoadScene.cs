@@ -8,7 +8,7 @@ public class LoadScene : MonoBehaviour
     private List<string> sceneHistory = new List<string>();  //running history of scenes
     //The last string in the list is always the current scene running
         
-    void Start()
+    void Awake()
     {
         DontDestroyOnLoad(this.gameObject);  //Allow this object to persist between scene changes
     }
@@ -18,6 +18,7 @@ public class LoadScene : MonoBehaviour
     public void SceneLoader(string newScene)
     {
         sceneHistory.Add(SceneManager.GetActiveScene().name);
+        DontDestroyOnLoad(this.gameObject);
         SceneManager.LoadScene(newScene);
         sceneHistory.Add(newScene);
     }

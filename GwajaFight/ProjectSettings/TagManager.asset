@@ -6,6 +6,7 @@ TagManager:
   tags:
   - interactable
   - noninteractable
+  - DND
   layers:
   - Default
   - TransparentFX

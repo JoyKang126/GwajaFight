@@ -4,8 +4,15 @@ using UnityEngine;
 
 public class DD : MonoBehaviour
 {
-    public void DontDestroy()
+    void Awake()
     {
-        DontDestroyOnLoad(gameObject);
+        GameObject[] objs = GameObject.FindGameObjectsWithTag("DND");
+
+        if (objs.Length > 1)
+        {
+            Destroy(this.gameObject);
+        }
+
+        DontDestroyOnLoad(this.gameObject);
     }
 }
