@@ -10,15 +10,29 @@ public class LoadScene : MonoBehaviour
         
     void Awake()
     {
-        DontDestroyOnLoad(this.gameObject);  //Allow this object to persist between scene changes
+        GameObject[] objs = GameObject.FindGameObjectsWithTag("DND");
+
+        if (objs.Length > 1)
+        {
+            Destroy(this.gameObject);
+        }
+
+        DontDestroyOnLoad(this.gameObject);
     }
      
     //Call this whenever you want to load a new scene
     //It will add the new scene to the sceneHistory list
     public void SceneLoader(string newScene)
     {
-        sceneHistory.Add(SceneManager.GetActiveScene().name);
-        DontDestroyOnLoad(this.gameObject);
+        if (sceneHistory.Count == 0)
+        {
+            sceneHistory.Add(SceneManager.GetActiveScene().name);
+        }
+        if (SceneManager.GetActiveScene().name == "TylerSampleScene")
+        {
+            Debug.Log("this ran");
+            DontDestroyOnLoad(this);
+        }
         SceneManager.LoadScene(newScene);
         sceneHistory.Add(newScene);
     }
