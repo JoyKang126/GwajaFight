@@ -580,7 +580,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.8333333, y: 1.7708334}
+    oldSize: {x: 0.7692308, y: 1.6346154}
     newSize: {x: 0.32, y: 0.32}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -615,9 +615,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   push: 114
-  knockTime: 1
+  knockTime: 0.1
   attackPos: {fileID: 807087268}
   startTimeBtwAttack: 1
+  stunTime: 0.5
 --- !u!1 &1193620725
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,7 +785,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.9375, y: 1.6666666}
+    oldSize: {x: 0.86538464, y: 1.5384616}
     newSize: {x: 0.9375, y: 1.6666666}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -822,9 +823,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   push: 47
-  knockTime: 1
+  knockTime: 0.1
   attackPos: {fileID: 590547798}
   startTimeBtwAttack: 1
+  stunTime: 0.5
 --- !u!114 &1193620734
 MonoBehaviour:
   m_ObjectHideFlags: 0
