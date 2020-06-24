@@ -279,7 +279,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 325134921}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4612373600304896282, guid: 8e311cdee65b442709949e90f02c5fb7,
+          type: 3}
+        m_MethodName: SceneLoader
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: StartScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &325134921
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -811,7 +823,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1106098578}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4612373600304896282, guid: 8e311cdee65b442709949e90f02c5fb7,
+          type: 3}
+        m_MethodName: PreviousScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1106098578
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -929,7 +953,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1248102785}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4612373600304896282, guid: 8e311cdee65b442709949e90f02c5fb7,
+          type: 3}
+        m_MethodName: SceneLoader
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: RuleScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1248102785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1113,7 +1149,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1575674786}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4612373600304896282, guid: 8e311cdee65b442709949e90f02c5fb7,
+          type: 3}
+        m_MethodName: SceneLoader
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: ControlScreen
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1575674786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1231,7 +1279,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1610963467}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 4612373600304896282, guid: 8e311cdee65b442709949e90f02c5fb7,
+          type: 3}
+        m_MethodName: PreviousScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1610963467
 MonoBehaviour:
   m_ObjectHideFlags: 0
