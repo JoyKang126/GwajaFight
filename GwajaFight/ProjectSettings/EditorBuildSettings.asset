@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TylerSampleScene.unity
-    guid: fe74d3ea51e8849559e43f47a93f7d7d
-  - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: c76ee70e9139b40e3a4b584657b3f0c0
+  - enabled: 1
+    path: Assets/Scenes/TylerSampleScene.unity
+    guid: fe74d3ea51e8849559e43f47a93f7d7d
   - enabled: 1
     path: Assets/Scenes/RuleScreen.unity
     guid: a6ca786d2ce9a4f8b8d044510aac5cf9

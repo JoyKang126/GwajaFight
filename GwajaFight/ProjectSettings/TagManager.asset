@@ -7,6 +7,7 @@ TagManager:
   - interactable
   - noninteractable
   - DND
+  - EndGame
   layers:
   - Default
   - TransparentFX
