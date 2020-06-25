@@ -25,7 +25,7 @@ public class Push2 : MonoBehaviour
             {
                 StartCoroutine(AttackCo());
                 Debug.Log("hit");
-                hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical")) * transform.localScale.x, 1.3f);
+                hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical")) * transform.localScale.x, 1f);
                 if(hit.collider != null && hit.collider.CompareTag("Player"))
                 {
                     Rigidbody2D enemy = hit.transform.gameObject.GetComponent<Rigidbody2D>();
