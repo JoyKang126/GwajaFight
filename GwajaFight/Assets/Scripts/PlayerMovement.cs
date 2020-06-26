@@ -14,8 +14,8 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
     Vector2 movement;
+    public bool freezeStatus = false;
 
-    private bool freezeStatus = false;
     private bool holdStatus = false;
     private bool pushStatus = false;
 
