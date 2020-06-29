@@ -39,14 +39,29 @@ public class UIManager : MonoBehaviour
 
 	//controls the pausing of the scene
 	public void pauseControl(){
-			if(Time.timeScale == 1)
+		Debug.Log("pauseControl");
+		GameObject[] objs = GameObject.FindGameObjectsWithTag("Player");
+		if(Time.timeScale == 1)
+		{
+			Debug.Log("init");
+			foreach (GameObject p in objs)
 			{
-				Time.timeScale = 0;
-				showPaused();
-			} else if (Time.timeScale == 0){
-				Time.timeScale = 1;
-				hidePaused();
+				PlayerMovement instance = p.GetComponent<PlayerMovement>();
+				instance.setFreeze(true);
 			}
+			Time.timeScale = 0;
+			showPaused();
+		} else {
+			Debug.Log("it ran");
+			foreach (GameObject p in objs)
+			{
+				PlayerMovement instance = p.GetComponent<PlayerMovement>();
+				instance.setFreeze(false);
+				Debug.Log("unpaused");
+			}
+			Time.timeScale = 1;
+			hidePaused();
+		}
 	}
 
     //shows objects with ShowOnPause tag
