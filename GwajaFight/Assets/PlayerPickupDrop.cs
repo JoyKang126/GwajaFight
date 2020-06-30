@@ -71,11 +71,11 @@ public class PlayerPickupDrop : MonoBehaviour
         {
             //find out what direction we're facing
             if (moveScript.animator.GetFloat("Horizontal") == -1) // facing left
-                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal") +(float)0.5, moveScript.animator.GetFloat("Vertical"),0);
+                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal") +(float)0.6, moveScript.animator.GetFloat("Vertical"),0);
             if (moveScript.animator.GetFloat("Horizontal") == 1) //facing right
-                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal") - (float)0.5, moveScript.animator.GetFloat("Vertical"), 0);
+                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal") - (float)0.6, moveScript.animator.GetFloat("Vertical"), 0);
             if(moveScript.animator.GetFloat("Vertical") == -1) //facing down
-                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical"), 0);
+                hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical") + (float)0.1, 0);
             if (moveScript.animator.GetFloat("Vertical") == 1) //facing up
                 hit.collider.gameObject.transform.position = holdpoint.position + new Vector3(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical") + (float)0.2, 0);
         }
