@@ -19,7 +19,7 @@ TagManager:
   - 
   - Player
   - Player2
-  - 
+  - Snack
   - 
   - 
   - 
@@ -44,6 +44,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Snack
+    uniqueID: 2630528351
     locked: 0
   - name: Player
     uniqueID: 4247720151
