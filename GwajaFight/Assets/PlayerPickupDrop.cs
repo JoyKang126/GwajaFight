@@ -44,7 +44,7 @@ public class PlayerPickupDrop : MonoBehaviour
             //Physics2D.queriesStartInColliders = false;
             if (!holding)
             {
-                hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1f);
+                if (moveScript.animator.GetFloat("Horizontal") == 0) //facing up or down
                     hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1f);
                 else if (moveScript.animator.GetFloat("Vertical") == 0) //facing left or right
                     hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 0.5f);
