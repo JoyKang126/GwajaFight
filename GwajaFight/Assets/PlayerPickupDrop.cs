@@ -45,6 +45,10 @@ public class PlayerPickupDrop : MonoBehaviour
             if (!holding)
             {
                 hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1f);
+                    hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1f);
+                else if (moveScript.animator.GetFloat("Vertical") == 0) //facing left or right
+                    hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 0.5f);
+
                 if (hit.collider!=null && hit.collider.CompareTag("interactable"))
                 {
                     StartCoroutine(PickupDropCo());
@@ -57,7 +61,7 @@ public class PlayerPickupDrop : MonoBehaviour
             else if (holding)
             {
                 StartCoroutine(PickupDropCo());
-                hit.collider.gameObject.GetComponent<SpriteRenderer>().sortingLayerName = "Default";
+                hit.collider.gameObject.GetComponent<SpriteRenderer>().sortingLayerName = "Snack";
                 GetComponent<PlayerMovement>().setHold(false);
                 holding = false;
                 hit.collider.gameObject.tag = "interactable";
@@ -99,8 +103,8 @@ public class PlayerPickupDrop : MonoBehaviour
     {
         GetComponent<PlayerMovement>().setHold(false);
         holding = false;
-        GetComponent<PlayerMovement>().addScore(hit.collider.gameObject.GetComponent<Snack>().getPointValue());
-        print(GetComponent<PlayerMovement>().getScore());
+        GetComponent<PointsScript>().addScore(hit.collider.gameObject.GetComponent<Snack>().getPointValue());
+        Debug.Log(GetComponent<PointsScript>().getScore());
         Destroy(hit.collider.gameObject);
         hit = new RaycastHit2D();
     }

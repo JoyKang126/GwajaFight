@@ -54,3 +54,6 @@ TagManager:
   - name: SnackHeld
     uniqueID: 2804872957
     locked: 0
+  - name: FurnitureTop
+    uniqueID: 2032345021
+    locked: 0

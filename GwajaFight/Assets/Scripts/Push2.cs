@@ -21,19 +21,21 @@ public class Push2 : MonoBehaviour
     {
         if (Input.GetKeyDown(push) && timeBtwAttack <= 0)
         {
-            if (!GetComponent<PlayerMovement>().getHold())
+            if (!GetComponent<PlayerMovement>().getHold() && !GetComponent<PlayerMovement>().getPush())
             {
                 StartCoroutine(AttackCo());
-                Debug.Log("hit");
-                hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"), moveScript.animator.GetFloat("Vertical")) * transform.localScale.x, 1f);
+                 if (moveScript.animator.GetFloat("Horizontal") == 0) //facing up or down
+                    hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 1f);
+                else if (moveScript.animator.GetFloat("Vertical") == 0) //facing left or right
+                    hit = Physics2D.Raycast(transform.position, new Vector2(moveScript.animator.GetFloat("Horizontal"),moveScript.animator.GetFloat("Vertical"))* transform.localScale.x, 0.5f);
                 if(hit.collider != null && hit.collider.CompareTag("Player"))
                 {
                     Rigidbody2D enemy = hit.transform.gameObject.GetComponent<Rigidbody2D>();
                     PlayerMovement temp = hit.transform.gameObject.GetComponent<PlayerMovement>();
                     hit.transform.gameObject.GetComponent<PlayerPickupDrop>().setInteractable();
                     hit.transform.gameObject.GetComponent<PlayerPickupDrop>().holding = false;
+                    hit.transform.gameObject.GetComponent<PlayerMovement>().setHold(false);
                     //set the holding in playermovement to false for the other player
-                    print("ASD");
                     temp.animator.SetBool("Pushed", true);
                     temp.setFreeze(true);
                     temp.setPush(true);
