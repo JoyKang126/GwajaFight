@@ -76,6 +76,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void decreaseSpeed(int val)
+    {
+        moveSpeed -= 0.25f *val;
+    }
+
     public void setFreeze(bool check)
     {
         freezeStatus = check;

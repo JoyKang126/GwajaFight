@@ -101,9 +101,11 @@ public class PlayerPickupDrop : MonoBehaviour
 
     public void eat()
     {
+        int snackScore = hit.collider.gameObject.GetComponent<Snack>().getPointValue();
         GetComponent<PlayerMovement>().setHold(false);
+        GetComponent<PlayerMovement>().decreaseSpeed(snackScore);
         holding = false;
-        GetComponent<PointsScript>().addScore(hit.collider.gameObject.GetComponent<Snack>().getPointValue());
+        GetComponent<PointsScript>().addScore(snackScore);
         Debug.Log(GetComponent<PointsScript>().getScore());
         Destroy(hit.collider.gameObject);
         hit = new RaycastHit2D();
