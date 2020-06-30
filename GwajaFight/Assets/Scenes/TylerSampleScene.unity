@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 3
+  pointValue: 2
 --- !u!212 &42424814
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4322,7 +4322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 5
+  pointValue: 1
 --- !u!212 &1282421200
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4873,7 +4873,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 4
+  pointValue: 3
 --- !u!212 &1386018134
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4995,7 +4995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 6
+  pointValue: 3
 --- !u!212 &1428724739
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5414,7 +5414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 3
+  pointValue: 2
 --- !u!212 &1596464470
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6521,7 +6521,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ccc04117baff244b162303ad9c48eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: 5
+  pointValue: 1
 --- !u!212 &1752739706
 SpriteRenderer:
   m_ObjectHideFlags: 0
