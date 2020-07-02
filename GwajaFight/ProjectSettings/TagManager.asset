@@ -8,6 +8,9 @@ TagManager:
   - noninteractable
   - DND
   - EndGame
+  - NoWinner
+  - P1Wins
+  - P2Wins
   layers:
   - Default
   - TransparentFX
