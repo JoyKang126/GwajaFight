@@ -9,11 +9,14 @@ public class CountdownTimer : MonoBehaviour
     float startingTime = 120f;
 
     public Text countdownText;
+    GameManager game;
 
     // Start is called before the first frame update
     void Start()
     {
         currentTime = startingTime;
+        game = Object.FindObjectOfType<GameManager>();
+
     }
 
     // Update is called once per frame
@@ -21,7 +24,6 @@ public class CountdownTimer : MonoBehaviour
     {
         currentTime -= 1 * Time.deltaTime;
         countdownText.text = currentTime.ToString ("0");
-
         if (currentTime <= 30) {
             countdownText.color = Color.red;
         }
@@ -29,7 +31,7 @@ public class CountdownTimer : MonoBehaviour
         if (currentTime <= 0)
         {
             currentTime = 0;
-            FindObjectOfType<GameManager>().EndGame();
+            game.EndGame();
         }
     }
 }
