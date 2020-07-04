@@ -4512,7 +4512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbfdfe5a8710d8548bdb0f7b03cb4b98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupdrop: 303
+  pickupdrop: 47
   holding: 0
   holdpoint: {fileID: 590547798}
   currentInterObj: {fileID: 0}
@@ -4528,7 +4528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67b240e253dae1846843784e7bdc675e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  push: 47
+  push: 46
   knockTime: 0.1
   attackPos: {fileID: 590547798}
   startTimeBtwAttack: 1
@@ -4557,7 +4557,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ab8ea29baefef4a840b86e01445566, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  eat: 279
+  eat: 303
 --- !u!1 &1264456915
 GameObject:
   m_ObjectHideFlags: 0
